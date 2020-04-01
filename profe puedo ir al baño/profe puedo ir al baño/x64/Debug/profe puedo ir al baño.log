@@ -1,0 +1,16 @@
+﻿  profe puedo ir al baño.cpp
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(50,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(406,6): error C2062: type 'int' unexpected
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(425,9): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(431,8): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(432,8): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(439,9): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(440,6): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(440,10): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(443,6): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(447,9): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(448,6): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(448,10): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(451,6): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(460,11): error C2065: 'w': undeclared identifier
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(460,14): error C2050: switch expression not integral
