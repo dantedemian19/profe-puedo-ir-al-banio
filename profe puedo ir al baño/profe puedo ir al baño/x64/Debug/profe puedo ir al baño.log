@@ -1,3 +1,3 @@
 ﻿  profe puedo ir al baño.cpp
-C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(71,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\profe puedo ir al baño\profe puedo ir al baño.cpp(168,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   profe puedo ir al baño.vcxproj -> C:\Users\dante\source\repos\dantedemian19\profe-puedo-ir-al-banio\profe puedo ir al baño\x64\Debug\profe puedo ir al baño.exe
